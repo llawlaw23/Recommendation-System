@@ -46,21 +46,20 @@ This phase involved defining the project's objectives, identifying the business 
 
 2. Data Understanding and Preparation
 This stage will involve:
+    - Loading the dataset and performing initial exploratory data analysis
+      (EDA).
+    - Handling missing values and data inconsistencies.
+    - Extensive feature engineering to create new variables that will
+      enhance the model's predictive power.
+    - Creating a user-item interaction matrix, which is a crucial component
+      for collaborative filtering methods.
 
-Loading the dataset and performing initial exploratory data analysis (EDA).
-
-Handling missing values and data inconsistencies.
-
-Extensive feature engineering to create new variables that will enhance the model's predictive power.
-
-Creating a user-item interaction matrix which is a crucial component for collaborative filtering methods.
-
-3. Modeling and Evaluation
+4. Modeling and Evaluation:
 This is the core of the project where I will develop the recommendation system.
+    - Modeling: I will explore different machine learning techniques, such as collaborative filtering (user-based and item-based) and potentially content-based filtering or a hybrid approach.
 
-Modeling: I will explore different machine learning techniques, such as collaborative filtering (user-based and item-based) and potentially content-based filtering or a hybrid approach.
+    - Evaluation: The model's performance will be evaluated using appropriate metrics, such as Precision, Recall, and AUC (Area Under the Curve), to measure its effectiveness.
 
-Evaluation: The model's performance will be evaluated using appropriate metrics, such as Precision, Recall, and AUC (Area Under the Curve), to measure its effectiveness.
+4. Results and Conclusions:
 
-4. Results and Conclusions
 The final phase will involve summarizing the key insights from the analysis, answering the initial business questions, and providing actionable recommendations. The conclusions will highlight the potential business impact of the recommendation system and suggest future improvements.
