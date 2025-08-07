@@ -37,7 +37,8 @@ The entire project will follow the CRISP-DM (Cross-Industry Standard Process for
 - How can we evaluate the effectiveness of the recommendation system in terms of user engagement and conversion rates? 
 
 💾 Data
-The dataset for this project can be accessed via the folder named: dataset. The data documentation has been read and understood to inform the data cleaning, preprocessing, and modeling stages. The dataset contains historical user interactions, which will be the foundation for building the recommendation system.
+
+The dataset for this project can be accessed via the folder named: Dataset. The data documentation has been read and understood to inform the data cleaning, preprocessing, and modeling stages. The dataset contains historical user interactions, which will be the foundation for building the recommendation system.
 
 📈 CRISP-DM Framework
 
