@@ -16,9 +16,12 @@ This project aims to develop an automatic recommendation system capable of provi
 
 🛠️ Tools and Methodology
 
-- Tools: Python, Jupyter Notebooks, Dask, Pandas, Scikit-learn, Matplotlib & Seaborn, GitHub, Git.
+- Tools
+
+Python, Jupyter Notebooks, Dask, Pandas, Scikit-learn, Matplotlib & Seaborn, GitHub, Git.
 
 - Methodology
+
 The entire project will follow the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework, ensuring a structured and systematic approach from problem definition to final deployment.
 
 
