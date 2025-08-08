@@ -27,19 +27,19 @@ The entire project will follow the CRISP-DM (Cross-Industry Standard Process for
 
 🎯 Business Problem & Analytical Questions
 
-- How can we leverage past user-item interactions to predict future preferences and recommend new items?
+- How many unique visitors per day/week?
 
-- Which products or content are most popular among users, and are there any trends over time?
+- What patterns exist in user-item interactions over time?
 
 - How do user demographics influence their preferences and interactions?
 
-- What products or content are frequently purchased or viewed together, and can we use these associations to generate recommendations?
+- What products are frequently purchased or viewed together?
 
-- Can we identify distinct user segments based on their behavior and preferences to offer tailored recommendations for each segment?
+- How do popularity metrics evolve monthly or seasonally?
 
-- What is the user's journey from first interaction to purchase, and how can we optimize recommendations at each stage?
+- Which items frequently co-occur in transactions?
 
-- How can we evaluate the effectiveness of the recommendation system in terms of user engagement and conversion rates? 
+- How do preferences differ across age, location, or other demographics? 
 
 💾 Data
 
