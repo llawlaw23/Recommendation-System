@@ -1,2 +1,6 @@
 events_cleaned.csv filter=lfs diff=lfs merge=lfs -text
 props_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+
+*.ipynb	diff=jupyternotebook
+
+*.ipynb	merge=jupyternotebook
