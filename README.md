@@ -31,15 +31,15 @@ The entire project will follow the CRISP-DM (Cross-Industry Standard Process for
 
 - What patterns exist in user-item interactions over time?
 
-- What are the most popular items by event type?
+- Which items have the highest property values overall?
  
-- What are the most popular categories?
+- Which properties occur most frequently across items?
 
-- What's the relationship between different events?
+- Which visitors interacted with the highest number of unique items?
 
-- How do popularity metrics evolve monthly or seasonally?
+- What are the most frequently interacted items across all visitors?
 
-- What is the average number of events per visitor in a week? 
+- How do the types of events vary across items and visitors?
 
 💾 Data
 
