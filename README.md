@@ -31,11 +31,11 @@ The entire project will follow the CRISP-DM (Cross-Industry Standard Process for
 
 - What patterns exist in user-item interactions over time?
 
-- Which items have the highest property values overall?
+- Which items were frequently interacted with?
  
-- Which properties occur most frequently across items?
+- Top ten properties?
 
-- Which visitors interacted with the highest number of unique items?
+- Top property by total Interactions?
 
 - What are the most frequently interacted items across all visitors?
 
