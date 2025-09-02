@@ -27,19 +27,19 @@ The entire project will follow the CRISP-DM (Cross-Industry Standard Process for
 
 🎯 Business Problem & Analytical Questions
 
-- How many unique visitors per day/week?
+- How many unique visitors per Month?
 
-- What patterns exist in user-item interactions over time?
+- Top most viewed and added to cart items between July and August?
 
-- Which items were frequently interacted with?
+- Top there most interacted items?
  
-- Top ten properties?
+- Top Five properties?
 
-- Top property by total Interactions?
+- Top Two most interacted items in May and June.?
 
-- What are the most frequently interacted items across all visitors?
+- Least Two interacted Items?
 
-- How do the types of events vary across items and visitors?
+- Event Types comparison
 
 💾 Data
 
